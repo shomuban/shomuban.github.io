@@ -1,6 +1,8 @@
+---
 layout: page
 title: "Contact"
 permalink: /contact/
+---
 
 You can contact Dr. Banerjee by email at [sbaner3@emory.edu](mailto:sbaner3@emory.edu).
 
