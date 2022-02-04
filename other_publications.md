@@ -4,6 +4,6 @@ title: "Other Publications"
 permalink: /other_publications/
 ---
 
-## Other Papers
+## Other Publications
 
-Other papers by Dr. B will be available here soon.
+Papers by Dr. B will be available here soon.
