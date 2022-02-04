@@ -1,4 +1,8 @@
-
+---
+layout: default
+title: "Errata"
+permalink: /errata/
+---
 
 ### Second edition errors
 
