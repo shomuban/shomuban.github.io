@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Videos"
+permalink: /videos/
+---
+
 ## Videos
 
 #### Companion videos for the book are linked below.
