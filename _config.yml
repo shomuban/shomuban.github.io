@@ -1,3 +1,4 @@
 theme: jekyll-theme-minimal
 title: Intermediate Microeconomics
 description: The companion website to Dr. Shomu Banerjee's Intermediate Microeconomics textbook.
+show_downloads: false
