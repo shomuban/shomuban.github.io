@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "Other Publications"
 permalink: /other_publications/
 ---
