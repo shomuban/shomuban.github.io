@@ -5,4 +5,4 @@ permalink: /powerpoints/
 ---
 ## PowerPoints
 
-Powerpoints will be available here soon.
+Powerpoints are available [on Google Drive](https://drive.google.com/drive/folders/1gEnK-FCrspstT7XQc4AiLaiuOznuCbRN?usp=sharing).
