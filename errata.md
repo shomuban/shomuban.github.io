@@ -3,6 +3,7 @@ layout: default
 title: "Errata"
 permalink: /errata/
 ---
+## Errata
 
 ### Second edition errors
 
