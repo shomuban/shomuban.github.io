@@ -5,4 +5,4 @@ permalink: /quizzes/
 ---
 ## Quizzes
 
-Quizzes will be available here soon.
+Quizzes can be accessed [here](https://drive.google.com/drive/folders/1KKHz4btSBOjAYfcoD0ceP2eEFnTNu4Ul?usp=sharing).
