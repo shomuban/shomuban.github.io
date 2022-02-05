@@ -11,4 +11,4 @@ Errors that have been found in the second edition will be listed here.
 
 ### First edition errors
 
-Errors that were found in the first edition will be listed here.
+Errors that were found in the first edition are listed here.
