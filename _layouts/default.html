@@ -24,7 +24,7 @@
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
         {% assign pages = site.pages | sort: "title" %} 
-        {% for page in site.pages %}
+        {% for page in pages %}
         <p class="view"><a href="{{ page.url | relative_url }}">{{ page.title }}</a></p>
         {% endfor %}
       </header>
