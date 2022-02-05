@@ -5,7 +5,7 @@ permalink: /powerpoints/
 ---
 ## PowerPoints
 
-### Powerpoints are available [here](https://drive.google.com/drive/folders/1gEnK-FCrspstT7XQc4AiLaiuOznuCbRN?usp=sharing).
+### Powerpoints can be accessed [here](https://drive.google.com/drive/folders/1gEnK-FCrspstT7XQc4AiLaiuOznuCbRN?usp=sharing).
 
 
 
